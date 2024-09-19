@@ -17,6 +17,7 @@ Description: Loaded the dataset and used descriptive statistics to gather inform
 Gender Distribution
 Objective: Visualize gender distribution in the dataset.
 Description: Extracted gender information and created visualizations (bar chart/pie chart) to represent the distribution.
+
 **Level 2: Intermediate**
 Descriptive Statistics
 Objective: Present basic statistics for numerical columns.
@@ -24,6 +25,7 @@ Description: Identified numerical columns and calculated mean, median, and stand
 Most Preferred Investment Avenue
 Objective: Identify the most preferred investment avenue.
 Description: Analyzed investment avenues and performed frequency analysis to determine the most preferred option.
+
 **Level 3: Advanced**
 Reasons for Investment
 Objective: Analyze and summarize reasons for investment choices.
@@ -31,6 +33,7 @@ Description: Explored participant responses and identified common themes or recu
 Savings Objectives
 Objective: Identify and present main savings objectives.
 Description: Analyzed savings objectives and created a descriptive list of the main objectives mentioned.
+
 **Level 4: Expert**
 Common Information Sources
 Objective: Analyze common sources for investment information.
